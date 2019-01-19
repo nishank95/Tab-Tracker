@@ -17,3 +17,14 @@ Run the following command to bring in the workspace and webpack template into a 
 
 `vue init webpack client`
 
+## Step3:
+Move into the client folder and run the following command to install all the dependencies mentioned in your package.json file into a new folder called node_modules.
+
+`npm install`
+
+## Step4:
+Now run the Vue.js front end dev server using the following command
+
+`npm run dev`
+
+
